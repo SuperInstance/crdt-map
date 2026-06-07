@@ -1,0 +1,9 @@
+[package]
+name = "crdt-map"
+version = "0.1.0"
+edition = "2021"
+description = "Conflict-free replicated data types (CRDTs) including GCounter, PNCounter, LWWRegister, ORSet, and CRDTMap for distributed state"
+license = "MIT"
+repository = "https://github.com/SuperInstance/crdt-map"
+
+[dependencies]
